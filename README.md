@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**SquirrelTech22/squirreltech22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who enjoys turning complex data into clear, intuitive 3D visualizations.
 
-Here are some ideas to get you started:
+### 🛠 My Day Job
+I've spent about a decade working with **Unity** and **.NET**. My primary focus is building industrial simulations—taking complex datasets and transforming them into functional, high-quality visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐿 SquirrelTech
+**SquirrelTech** is a project I started in my spare time to fill some of the gaps I've come across in my professional work. It's all about building the tools and "missing pieces" that help streamline development and solve common industry challenges.
+
+### 🚀 What I'm Into
+- **Unity & C#:** Building efficient and impactful 3D visualizations.
+- **.NET Ecosystem:** Developing the logic behind robust simulation tools.
+- **Industrial Automation:** Bridging the gap between the physical and virtual worlds.
+
+### 💻 Tech Stack
+- **Languages:** C#, SQL, Python
+- **Game Engine:** Unity
+
+### 🌱 Currently Projects
+- **Unity UIToolkit:** Adding a few missing controls that appear to be missing from Unity's UI Builder.
